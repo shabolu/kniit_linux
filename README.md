@@ -2,7 +2,7 @@
 Колугов Егор, 241 группа, фКНиИТ
 ### Work with files
 - [Task 1](/task_1/task_1.md)
-- Task 2
+- [Task 2](/task_2/task_2.md)
 ### User manage
 - Task 1
 - Task 2
