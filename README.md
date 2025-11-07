@@ -5,13 +5,13 @@
 - [Task 2](/work_with_files/task_2/task_2.md)
 ### User manage
 - [Task 1](/user_manage/task_1/task_1.md)
-- Task 2
+- [Task 2](/user_manage/task_2/task_2.md)
 ### File systems
 - Task 1
 - Task 2
 - Task 3
 - Task 4
-### Bask
+### Bash
 - Task 1
 ### Systemd
 - Task 1
