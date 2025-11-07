@@ -26,6 +26,7 @@ ls -l
 ls -la
 ```
 ![third](./screen-03.png)
+
 4) Создать папку с подпапками
 
 Создадим рабочую структуру:
@@ -34,6 +35,7 @@ mkdir -p cli_lab/{input,output,tmp}
 ls -R cli_lab
 ```
 ![fourth](./screen-04.png)
+
 5) Внутри папки создать файлик и записать в него что-нибудь
 
 Создадим файл с несколькими строками текста для дальнейших задач:
@@ -49,6 +51,7 @@ EOF
 cat cli_lab/input/data.txt
 ```
 ![fifth](./screen-05.png)
+
 6) Переместить файл из одной директории в другую
 
 Переместим файл из input в tmp:
@@ -58,6 +61,7 @@ ls -l cli_lab/input
 ls -l cli_lab/tmp
 ```
 ![sixth](./screen-06.png)
+
 7) Скопировать файл из одной директории в другую
 
 Скопируем файл из tmp в output под новым именем:
@@ -67,6 +71,7 @@ ls -l cli_lab/output
 cat cli_lab/output/data_copy.txt
 ```
 ![seventh](./screen-07.png)
+
 8) Переименовать файл
 
 Переименуем скопированный файл:
@@ -75,6 +80,7 @@ mv cli_lab/output/data_copy.txt cli_lab/output/report.txt
 ls -l cli_lab/output
 ```
 ![eighth](./screen-08.png)
+
 9) Сравнить содержимое файла
 
 Сравним содержимое report.txt и исходного data.txt в tmp. Сначала они идентичны:
@@ -87,6 +93,7 @@ echo "strawberry" >> cli_lab/output/report.txt
 diff -u cli_lab/tmp/data.txt cli_lab/output/report.txt
 ```
 ![9](./screen-09.png)
+
 10) Отсортировать содержимое файла по возрастанию и убыванию
 
 Отсортируем файл data.txt (остался в tmp). Для стабильности сортировки по байтам используем LC_ALL=C.
@@ -99,6 +106,7 @@ LC_ALL=C sort cli_lab/tmp/data.txt
 LC_ALL=C sort -r cli_lab/tmp/data.txt
 ```
 ![10](./screen-10.png)
+
 11) Удалить все папки и файлы
 
 Удалим созданную рабочую директорию целиком:
