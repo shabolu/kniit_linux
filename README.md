@@ -1,8 +1,8 @@
 # Администрирование операционных систем и сетей
 Колугов Егор, 241 группа, фКНиИТ
 ### Work with files
-- [Task 1](/task_1/task_1.md)
-- [Task 2](/task_2/task_2.md)
+- [Task 1](/work_with_files/task_1/task_1.md)
+- [Task 2](/work_with_files/task_2/task_2.md)
 ### User manage
 - Task 1
 - Task 2
