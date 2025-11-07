@@ -4,7 +4,7 @@
 - [Task 1](/work_with_files/task_1/task_1.md)
 - [Task 2](/work_with_files/task_2/task_2.md)
 ### User manage
-- Task 1
+- [Task 1](/user_manage/task_1/task_1.md)
 - Task 2
 ### File systems
 - Task 1
