@@ -12,7 +12,7 @@
 - [Task 3](/file_systems/task_3/task_3.md)
 - [Task 4](/file_systems/task_4/task_4.md)
 ### Bash
-- Task 1
+- [Task 1](/bash/task_1/task_1.md)
 ### Systemd
 - Task 1
 - Task 2
