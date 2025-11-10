@@ -7,10 +7,10 @@
 - [Task 1](/user_manage/task_1/task_1.md)
 - [Task 2](/user_manage/task_2/task_2.md)
 ### File systems
-- Task 1
-- Task 2
-- Task 3
-- Task 4
+- [Task 1](/file_systems/task_1/task_1.md)
+- [Task 2](/file_systems/task_2/task_2.md)
+- [Task 3](/file_systems/task_3/task_3.md)
+- [Task 4](/file_systems/task_4/task_4.md)
 ### Bash
 - Task 1
 ### Systemd
