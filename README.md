@@ -27,4 +27,4 @@
 - Task 1
 - Task 2
 ### Network
-- Task 1
+- [Task 1](/network/task_1/task_1.md)
