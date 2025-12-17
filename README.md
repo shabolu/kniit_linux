@@ -20,7 +20,7 @@
 ### SSH
 - [Task 1](/ssh/task_1/task_1.md)
 - [Task 2](/ssh/task_2/task_2.md)
-- Task 3
+- [Task 3](/ssh/task_3/task_3.md)
 ### Samba
 - [Task 1](/samba/task_1/task_1.md)
 ### Firewall
