@@ -24,7 +24,7 @@
 ### Samba
 - [Task 1](/samba/task_1/task_1.md)
 ### Firewall
-- Task 1
-- Task 2
+- [Task 1](/firewall/task_1/task_1.md)
+- [Task 2](/firewall/task_2/task_2.md)
 ### Network
 - [Task 1](/network/task_1/task_1.md)
